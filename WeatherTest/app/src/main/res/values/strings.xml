@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather Test</string>
+
+    <string name="google_places_api_key"></string>
+
+    <!-- icons for the basic weather conditions-->
+    <string name="wi_wu_clear">&#xf00d;</string>
+    <string name="wi_wu_cloudy">&#xf002;</string>
+    <string name="wi_wu_flurries">&#xf064;</string>
+    <string name="wi_wu_hazy">&#xf0b6;</string>
+    <string name="wi_wu_rain">&#xf01a;</string>
+    <string name="wi_wu_sleat">&#xf0b5;</string>
+    <string name="wi_wu_snow">&#xf01b;</string>
+    <string name="wi_wu_sunny">&#xf00d;</string>
+    <string name="wi_wu_unknown">&#xf00d;</string>
+</resources>
